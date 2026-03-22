@@ -20,3 +20,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Investigated performance bottleneck, noted findings
 - Reviewed open issues, added labels
+
+## 2026-03-23
+- Added type hints to helper functions
