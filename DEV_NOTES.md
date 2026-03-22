@@ -11,3 +11,7 @@ Personal development log — notes, findings, and ongoing work.
 - Updated dependencies to latest stable versions
 - Reviewed codebase, identified areas for improvement
 - Tested build on clean environment
+
+## 2026-03-22
+- Added .editorconfig for consistent formatting
+- Investigated performance bottleneck, noted findings
