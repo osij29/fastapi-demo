@@ -28,3 +28,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Verified API endpoint response schema
 - Fixed off-by-one error in loop
+
+## 2026-03-23
+- Reorganised test fixtures
+- Verified API endpoint response schema
+- Reviewed security headers configuration
